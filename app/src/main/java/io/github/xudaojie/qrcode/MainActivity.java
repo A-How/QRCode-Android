@@ -10,6 +10,9 @@ public class MainActivity extends AppCompatActivity {
 
     private static final int REQUEST_QR_CODE = 1;
 
+    private String test = "Hello Word";
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
